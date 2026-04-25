@@ -1,8 +1,11 @@
-To cite PROJ in publications use:
+To cite PROJ in publications as an evolving software project, independent of a specific software release use:
 
   PROJ contributors (2026). PROJ coordinate transformation software
   library. Open Source Geospatial Foundation. URL https://proj.org/.
   DOI: 10.5281/zenodo.5884394
+
+To cite a specific PROJ release, please refer to the Zenodo landing page for PROJ for the specific version DOI of the release: 
+https://zenodo.org/search?q=parent.id%3A5884394&f=allversions%3Atrue&l=list&p=1&s=10&sort=version
 
 A BibTeX entry for LaTeX users is
 
